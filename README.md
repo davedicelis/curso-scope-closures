@@ -1,2 +1,2 @@
 # curso-scope-closures
-Trabajando con Scope y closures
+Trabajando con Scope y closures.
